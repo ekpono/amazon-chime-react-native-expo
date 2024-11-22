@@ -1,0 +1,32 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/ambroseekpono/Code/SacanaApp/sacana-mobile/modules/amazon-chime-sdk-component/android/src/main/AndroidManifest.xml:6:1-11:12
+INJECTED from /Users/ambroseekpono/Code/SacanaApp/sacana-mobile/modules/amazon-chime-sdk-component/android/src/main/AndroidManifest.xml:6:1-11:12
+	package
+		INJECTED from /Users/ambroseekpono/Code/SacanaApp/sacana-mobile/modules/amazon-chime-sdk-component/android/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/ambroseekpono/Code/SacanaApp/sacana-mobile/modules/amazon-chime-sdk-component/android/src/main/AndroidManifest.xml:6:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/ambroseekpono/Code/SacanaApp/sacana-mobile/modules/amazon-chime-sdk-component/android/src/main/AndroidManifest.xml:7:5-67
+	android:name
+		ADDED from /Users/ambroseekpono/Code/SacanaApp/sacana-mobile/modules/amazon-chime-sdk-component/android/src/main/AndroidManifest.xml:7:22-64
+uses-permission#android.permission.CAMERA
+ADDED from /Users/ambroseekpono/Code/SacanaApp/sacana-mobile/modules/amazon-chime-sdk-component/android/src/main/AndroidManifest.xml:8:5-65
+	android:name
+		ADDED from /Users/ambroseekpono/Code/SacanaApp/sacana-mobile/modules/amazon-chime-sdk-component/android/src/main/AndroidManifest.xml:8:22-62
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from /Users/ambroseekpono/Code/SacanaApp/sacana-mobile/modules/amazon-chime-sdk-component/android/src/main/AndroidManifest.xml:9:5-80
+	android:name
+		ADDED from /Users/ambroseekpono/Code/SacanaApp/sacana-mobile/modules/amazon-chime-sdk-component/android/src/main/AndroidManifest.xml:9:22-77
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from /Users/ambroseekpono/Code/SacanaApp/sacana-mobile/modules/amazon-chime-sdk-component/android/src/main/AndroidManifest.xml:10:5-71
+	android:name
+		ADDED from /Users/ambroseekpono/Code/SacanaApp/sacana-mobile/modules/amazon-chime-sdk-component/android/src/main/AndroidManifest.xml:10:22-68
+uses-sdk
+INJECTED from /Users/ambroseekpono/Code/SacanaApp/sacana-mobile/modules/amazon-chime-sdk-component/android/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/ambroseekpono/Code/SacanaApp/sacana-mobile/modules/amazon-chime-sdk-component/android/src/main/AndroidManifest.xml
+INJECTED from /Users/ambroseekpono/Code/SacanaApp/sacana-mobile/modules/amazon-chime-sdk-component/android/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/ambroseekpono/Code/SacanaApp/sacana-mobile/modules/amazon-chime-sdk-component/android/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/ambroseekpono/Code/SacanaApp/sacana-mobile/modules/amazon-chime-sdk-component/android/src/main/AndroidManifest.xml
